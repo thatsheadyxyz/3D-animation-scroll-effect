@@ -1,0 +1,17 @@
+html {
+    height: 100vh;
+}
+     
+body {
+    background: #000;
+    height: 400vh;
+    display: flex;
+    justify-content: center;
+}
+     
+canvas {
+    position: fixed;
+    max-height: 100vh;
+    max-width: 100vw;
+}
+    
